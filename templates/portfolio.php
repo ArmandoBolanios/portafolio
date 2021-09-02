@@ -137,7 +137,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2016/06/03/00/05/calculator-1432526_960_720.png" alt="blog-laravel">
+                        <img src="https://images.unsplash.com/photo-1587145820266-a5951ee6f620?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80" alt="blog-laravel">
                     </div>
                     <div class="hoja-text">
                         <h2>Calculadora Simple</h2>
