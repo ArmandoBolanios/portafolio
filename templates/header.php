@@ -1,7 +1,7 @@
 <header id="header">
     <div class="d-flex flex-column">
         <div class="profile">
-            <img src="public/img/bmo.png" alt="" class="img-fluid rounded-circle" alt="imagen-de-perfil">
+            <img src="public/img/profile/profile.svg" alt="" class="img-fluid rounded-circle" alt="imagen-de-perfil">
             <h1 class="text-light"><a href="index.html">Armando Bolaños</a></h1>
             <div class="social-links mt-3 text-center">
                 <a href="https://www.facebook.com/bwtqororyhx9154/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
