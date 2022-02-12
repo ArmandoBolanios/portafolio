@@ -5,8 +5,7 @@
             <h2>Acerca de mí</h2>
             <p>
             Desarrollo sitios web a las necesidades de los clientes,
-            buscando la mejor solución para entregar sus proyectos.
-            <br>La disciplina y puntualidad son unas de mis fortalezas para llegar a mis objetivos.            
+            buscando la mejor solución para entregar sus proyectos.            
             </p>            
         </div>
 
@@ -32,8 +31,7 @@
                             <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
                         </ul>
                     </div>
-                </div>
-                <p>Cada día me esfuerzo para entregar un buen trabajo de la mejor calidad. Si tienes alguna duda, no dudes en contactarme.
+                </div>                
                 </p>
             </div>
         </div>

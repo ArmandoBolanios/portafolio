@@ -1260,33 +1260,80 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
 #footer {
-  padding: 15px;
-  color: #f4f6fd;
-  font-size: 14px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 300px;
-  z-index: 9999;
-  background: #040b14;
+  background: #e4e4e4;
+  color: #444;
+  padding: 0 0 30px 0;
 }
 
 #footer .copyright {
+  font-size: 14px;
   text-align: center;
+  padding-top: 30px;
 }
 
 #footer .credits {
-  padding-top: 5px;
+  padding-top: 60px; /* 30px */
   text-align: center;
-  font-size: 13px;
-  color: #eaebf0;
+  font-size: 14px;
+  color: #555;
 }
 
-@media (max-width: 1199px) {
-  #footer {
-    position: static;
-    width: auto;
-    padding-right: 20px 15px;
-  }
+#footer .credits a {
+  color: #0c2e8a;
+  text-decoration: none;
 }
+
+/* ------------------------------ SOCIAL LINKS -----------------------------------------------------------------  */
+#social {
+  padding: 30px 0;
+}
+
+.social-links {
+  /*padding: 0;*/
+  padding-top: 60px;
+  list-style: none;
+  margin: 5px 0;
+  text-align: center;
+  position: relative;
+  /*padding-bottom: 15px;*/
+
+}
+
+.social-links li {
+  margin: 10px 40px 10px 0;
+  display: inline-block;
+  font-size: 26px; /* 36px */
+}
+
+.social-links li a {
+  color: #333333;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.social-links li.twitter a:hover {
+  color: #55acee;
+}
+
+.social-links li.linkedin a:hover {
+  color: #0976b4;
+}
+
+
+.social-links li.facebook a:hover {
+  color: #3b5998;
+}
+
+.social-links li.github a:hover {
+  color: #f4ab0d;
+}
+
+.social-links li.codepen a:hover {
+  color: #02092c;
+}
+
