@@ -13,7 +13,7 @@
                         <p><em>Desarrollador Web Fullstack</em></p>
                         <ul>
                             <li>Tlapa de Comonfort, México</li>
-                            <li>ing.sw.armando@outlook.com</li>
+                            <li>armando_isic@outlook.com</li>
                         </ul>
                     </div>
 
