@@ -26,7 +26,8 @@
     <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
         <div class="hero-container" data-aos="fade-in">
             <h1>Armando Bolaños</h1>
-            
+            <p><span class="typed" data-typed-items="Desarrollo web front - end, Desarrollo web back - end, 
+            Desarrollo de aplicaciones móviles"></span></p>
         </div>
     </section>
 

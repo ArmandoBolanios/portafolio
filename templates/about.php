@@ -14,7 +14,7 @@
                 <img src="public/img/profile/foto2.png" class="foto-perfil" alt="foto-de-perfil">
             </div>
             <div class="col-md-8 col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                <h3>Ingeniero en Sistemas Computacionales &amp; Desarrollador Web.</h3>
+                <h3>Ingeniero en Sistemas Computacionales.</h3>
                 <p class="fst-italic">
                     Cursé la licenciatura con la especialidad en Ingeniería de Software.                    
                 </p>
