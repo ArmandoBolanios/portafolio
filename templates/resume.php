@@ -37,6 +37,7 @@
                         <h4>Desarrollador Web Freelancer</h4>
                         <h5>Actual</h5>
                         <p><em>Tlapa de Comonfort, Mexico</em></p>
+                        <p>Habilidades adquiridas actualmente:</p>
                         <ul>
                             <li>Análisis de requerimientos</li>
                             <li>Metodologías de desarrollo de software</li>
