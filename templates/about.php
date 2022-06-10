@@ -10,7 +10,7 @@
                 <p class="fst-italic">
                     Cursé la licenciatura en la especialidad de Ingeniería de Software.
                 </p>
-
+                <p>Actualmente, estoy en un curso de React, NodeJS y Java para mejorar mis habilidades en el desarrollo de software</p>
             </div>
         </div>
     </div>
