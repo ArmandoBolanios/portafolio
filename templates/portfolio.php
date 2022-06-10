@@ -4,7 +4,7 @@
 
         <div class="section-title">
             <h2>Portafolio</h2>
-            <p>Aquí encontrarás algunos de mis proyectos que he desarrollado en el transcurso de mi formación.</p>
+            <p>Aquí encontrarás los proyectos que he desarrollado en el transcurso de mi formación.</p>
         </div>
         <div class="grillas">
             <div>

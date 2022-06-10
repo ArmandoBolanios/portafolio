@@ -9,19 +9,18 @@
                 <div class="col-lg-6" data-aos="fade-up">
                     <h3 class="resume-title">Resumen</h3>
                     <div class="resume-item pb-0">
-                        <h4>Armando Bolaños</h4>
+                        <h4>Armando Bolaños</h4>                        
                         <p><em>Desarrollador Web Fullstack</em></p>
-                        <ul>
-                            <li>Tlapa de Comonfort, México</li>
+                        <ul>                            
                             <li>armando_isic@outlook.com</li>
                         </ul>
                     </div>
 
                     <h3 class="resume-title">Educación</h3>
                     <div class="resume-item">
-                        <h4>Ingeniero en Sistemas Computacionales</h4>
-                        <h5>2012 - 2018</h5>
-                        <p><em>Instituto Tecnológico Superior de la Montaña, México</em></p>
+                        <h4>Ingeniería en Sistemas Computacionales</h4>
+                        <h5>2012 - 2017</h5>
+                        <p><em>INSTITUTO TECNOLÓGICO SUPERIOR DE LA MONTAÑA, TECNM</em></p>
                         <p>Licenciatura en Ingeniería en Sistemas Computacionales</p>
                     </div>
                     <div class="resume-item">
