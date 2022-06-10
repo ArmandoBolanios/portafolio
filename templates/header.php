@@ -4,8 +4,7 @@
             <img src="public/img/profile/profile.svg" alt="" class="img-fluid rounded-circle" alt="imagen-de-perfil">
             <h1 class="text-light"><a href="index.html">Armando Bolaños</a></h1>
             <div class="social-links mt-3 text-center">
-                <a href="https://www.linkedin.com/in/armando-bolaños-059303" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
-                <a href="https://www.facebook.com/bwtqororyhx9154/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/armando-bolaños-059303" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>                
                 <a href="https://github.com/ArmandoBolanios" class="github" target="_blank"><i class="bx bxl-github"></i></a>
                 <a href="https://codepen.io/ArmandoBolanios" class="codepen" target="_blank"><i class="bx bxl-codepen"></i></a>
             </div>
