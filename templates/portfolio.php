@@ -14,7 +14,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>E-Commerce</h2>
-                        <p>Tienda Online</p>
+                        <p>Tienda Online, Monte Carlo Automotriz</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Sistema Motocicletas</h2>
-                        <p>Punto de venta para motocicletas</p>
+                        <p>Punto de venta de motocicletas</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -87,7 +87,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Blog DJango</h2>
-                        <p>Curso de DJango para hacer un blog</p>
+                        <p>Curso del framework DJango - Python</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -105,7 +105,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Blog Laravel</h2>
-                        <p>Curso del framework Laravel para hacer un blog</p>
+                        <p>Curso del framework Laravel - PHP</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -123,7 +123,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Reproductor de Música</h2>
-                        <p>Curso de Python TKinter</p>
+                        <p>Curso de Python + TKinter</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Calculadora Simple</h2>
-                        <p>Curso de Python TKinter</p>
+                        <p>Curso de Python + TKinter</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
