@@ -10,7 +10,25 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGVjb21tZXJjZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="e-commerce">
+                        <img src="public/img/website.svg" alt="bluetooth">
+                    </div>
+                    <div class="hoja-text">
+                        <h2>Página Web</h2>
+                        <p>Página web informativa para el cyber y papelería</p>
+                    </div>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <a href="https://ticsab.herokuapp.com/" target="_blank">
+                                <span class="link"></span>Ir al sitio web
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="hoja">
+                    <div class="hoja-imagen">
+                        <img src="public/img/ecommerce.svg" alt="e-commerce">
                     </div>
                     <div class="hoja-text">
                         <h2>E-Commerce</h2>
@@ -28,7 +46,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2016/01/03/12/00/smartphone-1119314_960_720.jpg" alt="bluetooth">
+                        <img src="public/img/bluetooth.svg" alt="bluetooth">
                     </div>
                     <div class="hoja-text">
                         <h2>Bluetooth</h2>
@@ -46,8 +64,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2016/04/08/20/14/modern-analyst-1316900_960_720.jpg"
-                            alt="sistema-cms">
+                        <img src="public/img/punto_venta.svg" alt="sistema-cms">
                     </div>
                     <div class="hoja-text">
                         <h2>Sistema Motocicletas</h2>
@@ -65,7 +82,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2017/09/11/19/05/robot-2740075__340.jpg" alt="reconocimiento-voz">
+                        <img src="public/img/robot.svg" alt="reconocimiento-voz">
                     </div>
                     <div class="hoja-text">
                         <h2>Reconocimiento de voz</h2>
@@ -83,7 +100,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351__340.png" alt="blog-django">
+                        <img src="public/img/blog1.svg" alt="blog-django">
                     </div>
                     <div class="hoja-text">
                         <h2>Blog DJango</h2>
@@ -101,7 +118,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2014/02/13/07/28/cms-265125__340.jpg" alt="blog-laravel">
+                        <img src="public/img/blog2.svg" alt="blog-laravel">
                     </div>
                     <div class="hoja-text">
                         <h2>Blog Laravel</h2>
@@ -119,7 +136,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://cdn.pixabay.com/photo/2015/09/21/00/54/plant-949111__340.jpg" alt="blog-laravel">
+                        <img src="public/img/playlist.svg" alt="blog-laravel">
                     </div>
                     <div class="hoja-text">
                         <h2>Reproductor de Música</h2>
@@ -137,7 +154,7 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="https://images.unsplash.com/photo-1587145820266-a5951ee6f620?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80" alt="blog-laravel">
+                        <img src="public/img/calculator.svg" alt="blog-laravel">
                     </div>
                     <div class="hoja-text">
                         <h2>Calculadora Simple</h2>
