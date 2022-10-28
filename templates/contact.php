@@ -21,14 +21,7 @@
                         <i class="bi bi-envelope"></i>
                         <h4>Email:</h4>
                         <p>armando_isic@outlook.com</p>
-                    </div>
-
-                    <div class="phone">
-                        <i class="bi bi-phone"></i>
-                        <h4>Teléfono:</h4>
-                        <p>+52 </p>
-                    </div>
-
+                    </div>                    
                     <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d486860.8623958306!2d-99.31907533075828!3d17.57419773291694!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1644695096921!5m2!1ses-419!2smx" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
                 </div>
 

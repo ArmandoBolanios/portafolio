@@ -1,10 +1,9 @@
 <!-- ======= Skills Section ======= -->
 <section id="portfolio" class="skills">
     <div class="container">
-
         <div class="section-title">
             <h2>Portafolio</h2>
-            <p>Aquí encontrarás los proyectos que he desarrollado en el transcurso de mi formación.</p>
+            <p>Aquí encontrarás los proyectos que he desarrollado.</p>
         </div>
         <div class="grillas">
             <div>
@@ -14,7 +13,8 @@
                     </div>
                     <div class="hoja-text">
                         <h2>Página Web</h2>
-                        <p>Página web informativa para el cyber y papelería</p>
+                        <p>Página web informativa TICS-SOLUCIONES</p>
+                        <p>Hecho en php, javascript</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -33,6 +33,7 @@
                     <div class="hoja-text">
                         <h2>E-Commerce</h2>
                         <p>Tienda Online, Monte Carlo Automotriz</p>
+                        <p>Desarrollado en php, javascript</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -46,29 +47,11 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="public/img/bluetooth.svg" alt="bluetooth">
-                    </div>
-                    <div class="hoja-text">
-                        <h2>Bluetooth</h2>
-                        <p>Aplicación para compartir datos</p>
-                    </div>
-                    <div class="card-stats">
-                        <div class="stat">
-                            <a href="https://github.com/ArmandoBolanios/Bluetooth" target="_blank">
-                                <span class="link"></span>Documentación
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="hoja">
-                    <div class="hoja-imagen">
                         <img src="public/img/punto_venta.svg" alt="sistema-cms">
                     </div>
-                    <div class="hoja-text">
-                        <h2>Sistema Motocicletas</h2>
+                    <div class="hoja-text">                        
                         <p>Punto de venta de motocicletas</p>
+                        <p>Hecho en Java, Java Swing y PostgreSQL</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
@@ -82,39 +65,22 @@
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">
-                        <img src="public/img/robot.svg" alt="reconocimiento-voz">
+                        <img src="public/img/bluetooth.svg" alt="bluetooth">
                     </div>
                     <div class="hoja-text">
-                        <h2>Reconocimiento de voz</h2>
-                        <p>Desarrollado en el Instituto Tecnológico</p>
+                        <h2>Bluetooth</h2>
+                        <p>Aplicación para compartir datos como música, imágenes y texto</p>
+                        <p>Desarrollado para móviles Android</p>
                     </div>
                     <div class="card-stats">
                         <div class="stat">
-                            <a href="https://github.com/ArmandoBolanios/Voz_Pikachu" target="_blank">
+                            <a href="https://github.com/ArmandoBolanios/Bluetooth" target="_blank">
                                 <span class="link"></span>Documentación
                             </a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div>
-                <div class="hoja">
-                    <div class="hoja-imagen">
-                        <img src="public/img/blog1.svg" alt="blog-django">
-                    </div>
-                    <div class="hoja-text">
-                        <h2>Blog DJango</h2>
-                        <p>Curso del framework DJango - Python</p>
-                    </div>
-                    <div class="card-stats">
-                        <div class="stat">
-                            <a href="https://github.com/ArmandoBolanios/Blog_Django" target="_blank">
-                                <span class="link"></span>Documentación
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div>            
             <div>
                 <div class="hoja">
                     <div class="hoja-imagen">

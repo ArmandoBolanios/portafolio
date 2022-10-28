@@ -8,9 +8,8 @@
             <div class="col-md-8 col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                 <h3>Ingeniero en Sistemas Computacionales.</h3>
                 <p class="fst-italic">
-                    Cursé la licenciatura en la especialidad de Ingeniería de Software.
-                </p>
-                <p>Actualmente, estoy en un curso de React, NodeJS y Java para mejorar mis habilidades en el desarrollo de software</p>
+                    Licenciatura con especialidad en Ingeniería de Software.
+                </p>              
             </div>
         </div>
     </div>
